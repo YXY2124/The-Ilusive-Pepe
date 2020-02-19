@@ -1,0 +1,6 @@
+	   client.on("ready", () => {
+            console.log(chalk.green(`Logged in as: ${client.user.username} || Servers: ${client.guilds.size} || Protecting ${client.users.size} people!`));
+            console.log(chalk.bold(`ID: ${client.id}`));
+            client.user.setStatus("dnd");
+            client.user.setActivity("--help", {type: "PLAYING"});
+        });

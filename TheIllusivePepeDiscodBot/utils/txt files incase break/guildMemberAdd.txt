@@ -1,0 +1,5 @@
+client.on("guildMemberAdd", async member => {
+            console.log(`${member.id} joined the server`);
+            let welcomechannel = member.guild.channels.find(`name`, "general");
+            welcomechannel.send(`LOOK OUT EVERYONE! ${member} has joined!`);
+        });

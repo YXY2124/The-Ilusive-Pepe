@@ -1,0 +1,5 @@
+client.on("guildMemberRemove", async member => {
+	console.log(`${member.id} left the server`);
+	let welcomechannel = member.guild.channels.find(`name`, "general");
+	welcomechannel.send(`GOOD RIDDANCE! ${member} has failed!`);
+});

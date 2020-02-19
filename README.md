@@ -1,4 +1,4 @@
-# The-Ilusive-Pepe
+# The Ilusive Pepe
 # Remake Of The Bot, Dank Memer
 # Discord => 𝓨𝓧𝓨#1337
 <p>Made by a 12 year old kid in <b>Visual Studio Code</b></p>
@@ -9,6 +9,8 @@
   
   <p>
 Now youll type this in the bots folder, in CMD, POWERSHELL, or your text editor of choice
+    <p>FIRST DO <b>npm i</b> THEN <b>npm i discord.js --save</b> THEN THE STUFF ABOVE!</p>
+    
   <b>npm i ascii-table</b>,
   <b>npm i chalk</b>,
   <b>npm i common-tags</b>,
@@ -21,6 +23,5 @@ Now youll type this in the bots folder, in CMD, POWERSHELL, or your text editor 
   <b>npm i sqlite</b>,
   <b>npm i superagent</b>,
   <b>npm i ytdl-core</b>,
-  <p>FIRST DO <b>npm i</b> THEN <b>npm i discord.js --save</b> THEN THE STUFF ABOVE!</p>
   
 </p>

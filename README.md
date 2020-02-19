@@ -5,11 +5,11 @@
 
 
 <p>To use the bot, go into the <b>.env</b> file and enter your <b>bot token</b></p>
-<p>Next you'll do these last node.js things to get the bt running. If your still having errors, join my Discord server!  <a href="https://discord.gg/wkH2ccp">The Illusive Pepe Official</a>
+<p>Next you'll do these last node.js things to get the bot running. If your still having errors, join my Discord server!  <a href="https://discord.gg/wkH2ccp">The Illusive Pepe Official</a>
   
   <p>
 Now youll type this in the bots folder, in CMD, POWERSHELL, or your text editor of choice
-    <p>FIRST DO <b>npm i</b> THEN <b>npm i discord.js --save</b> THEN THE STUFF ABOVE!</p>
+    <p>FIRST DO <b>npm i</b> THEN <b>npm i discord.js --save</b> THEN THE STUFF BELOW!</p>
     
   <b>npm i ascii-table</b>,
   <b>npm i chalk</b>,
